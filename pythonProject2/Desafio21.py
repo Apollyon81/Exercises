@@ -1,0 +1,2 @@
+import datasette_mp3_audio
+print(datasette_mp3_audio)
